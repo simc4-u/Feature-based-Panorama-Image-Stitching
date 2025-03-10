@@ -1,1 +1,1 @@
-# Panorama-Stitching-
+# Panorama-Stitching using Classical CV
